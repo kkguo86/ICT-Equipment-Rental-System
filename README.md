@@ -1,1 +1,0 @@
-# ICT-Equipment-Rental-System
